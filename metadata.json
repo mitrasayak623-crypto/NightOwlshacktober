@@ -1,0 +1,8 @@
+{
+  "name": "NightOwl AI",
+  "description": "Privacy-first group chat intelligence assistant that decodes late-night group conversations into concise morning briefs, tasks, decisions, and unanswered questions without cloud uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
